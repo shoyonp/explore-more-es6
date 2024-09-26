@@ -32,7 +32,7 @@ const user2 = {
     id: 5002,
     name: 'shoyon',
     address:{
-        city: 'purnar kaceh',
+        city: 'purnar kache',
         address: 'Bangladesh'
     }
 }
